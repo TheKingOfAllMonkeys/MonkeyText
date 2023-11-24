@@ -1,2 +1,4 @@
 # MonkeyText
 MonkeyText will generate a sentence about a monkey.
+
+MONKEYTEXT WAS CREATED BY GOOGLE'S BARD AI, NOT BY ME, ALL CREDIT IS TO GOOGLE'S BARD AI, THIS WAS CREATED TO SHOWCASE AI
